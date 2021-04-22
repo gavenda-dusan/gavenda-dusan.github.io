@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="100px"
+   width="100px"
+   fill="#46505a"
+   data-name="Layer 1"
+   viewBox="0 0 100 100"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="ikona_lisenced-resources.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>People</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title2">People</title>
+  <g
+     style="fill:#46505a"
+     id="g868"
+     transform="matrix(2.8125,0,0,2.8125,14.84375,5)">
+    <g
+       id="g854">
+      <path
+         id="path848"
+         d="m 17.954,8 h 4.741 C 23.082,8 23.429,7.768 23.578,7.41 23.725,7.055 23.643,6.643 23.371,6.37 L 18.629,1.629 C 18.357,1.357 17.945,1.275 17.59,1.423 17.232,1.569 17,1.918 17,2.305 V 7.046 C 17,7.573 17.428,8 17.954,8 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path850"
+         d="M 12.001,16 C 10.897,16 10,16.898 10,18.002 V 19 h 4.002 V 18.002 C 14.002,16.898 13.104,16 12.001,16 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path852"
+         d="M 24.046,10 H 16.922 C 15.86,10 15,9.14 15,8.078 V 0.954 C 15,0.427 14.572,0 14.046,0 H 3 C 1.363,0 0,1.327 0,2.965 v 26.07 C 0,30.673 1.363,32 3,32 h 19 c 1.637,0 3,-1.327 3,-2.965 V 10.954 C 25,10.427 24.572,10 24.046,10 Z M 16,23.987 C 16,24.547 15.547,25 14.987,25 H 9.013 C 8.453,25 8,24.547 8,23.987 v -3.975 c 0,-0.555 0.447,-1.003 1,-1.01 v -1.001 c 0,-1.658 1.344,-3.001 3.001,-3.002 1.657,10e-4 3.001,1.344 3.001,3.002 v 1.001 C 15.554,19.012 16,19.459 16,20.013 Z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
